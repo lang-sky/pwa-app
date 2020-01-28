@@ -12,6 +12,7 @@ const NavBar = () => (
 
 const Template = ({ title }) => (
   <div>
+    1
     <NavBar />
     <p className="page-info">This is the {title} page</p>
   </div>
